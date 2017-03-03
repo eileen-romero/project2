@@ -339,7 +339,7 @@ html {
 body {
   font-family: "Titillium Web", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 1rem;
-  font-weight: normal;
+  font-weight: 700;
   line-height: 1.5;
   color: #292b2c;
   background-color: #fff;
@@ -385,7 +385,7 @@ ul ol {
 }
 
 dt {
-  font-weight: bold;
+  font-weight: 900;
 }
 
 dd {
@@ -730,7 +730,7 @@ kbd {
 kbd kbd {
   padding: 0;
   font-size: 100%;
-  font-weight: bold;
+  font-weight: 900;
 }
 
 pre {
@@ -2639,7 +2639,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 
 .btn {
   display: inline-block;
-  font-weight: normal;
+  font-weight: 700;
   line-height: 1.25;
   text-align: center;
   white-space: nowrap;
@@ -4855,7 +4855,7 @@ tbody.collapse.show {
   display: inline-block;
   padding: 0.25em 0.4em;
   font-size: 75%;
-  font-weight: bold;
+  font-weight: 900;
   line-height: 1;
   color: #fff;
   text-align: center;
@@ -4968,7 +4968,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .alert-link {
-  font-weight: bold;
+  font-weight: 900;
 }
 
 .alert-dismissible .close {
@@ -5391,7 +5391,7 @@ button.list-group-item-danger.active {
 .close {
   float: right;
   font-size: 1.5rem;
-  font-weight: bold;
+  font-weight: 900;
   line-height: 1;
   color: #000;
   text-shadow: 0 1px 0 #fff;
